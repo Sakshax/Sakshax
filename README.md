@@ -27,7 +27,7 @@
 ### 📊 **GitHub Stats:**
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Sakshax&theme=codeSTACKr&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sakshax&theme=codeSTACKr&hide_border=true" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=Sakshax&theme=codeSTACKr&hide_border=true" alt="GitHub Streak" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakshax&theme=codeSTACKr&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Most Used Languages" />
 </div>
 
@@ -47,7 +47,7 @@
 
 ---
 
-![Profile Views](https://visitcount.itsvg.in/api?id=Sakshax&icon=10&color=13)
+![Profile Views](https://komarev.com/ghpvc/?username=Sakshax&label=Profile%20Views&color=0e75b6&style=flat)
 
 ---
 
