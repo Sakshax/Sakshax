@@ -1,6 +1,5 @@
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi there, I'm **Saksham Choudhari!**
 
-🚀 **Passionate Developer | Tech Enthusiast | Open-Source Contributor**
 
 ---
 
@@ -58,28 +57,16 @@
 ---
 
 ### 🚀 **About Me:**
-- 🔭 I’m currently working on **exciting projects in Flask and MySQL**.
+- 🔭 I’m currently working on **Alumni Association Portal**.
 - 🌱 I’m currently learning **advanced web development & backend technologies**.
-- 👯 I’m looking to collaborate on **open-source projects and innovative applications**.
-- 💡 I enjoy **solving real-world problems with technology**.
-- 💬 Ask me about **Flask, Python, MySQL, or web development**.
-- 🎯 Goal: **Become a full-stack developer & contribute more to open-source**.
-- ⚡ Fun fact: **I love problem-solving and learning new tech!**
-
+-
 ---
 
 ### 🎮 **Fun Stuff:**
 - 🎵 I love listening to **music while coding**.
 - 🎮 Passionate about **gaming & tech innovations**.
 - 📝 Always excited to **learn & share knowledge**.
-- 🎨 Fun hobby: **Designing & animation experiments!**
 
----
-
-### 🌟 **Animated Banner:**
-<p align="center">
-    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600px" />
-</p>
 
 ---
 
